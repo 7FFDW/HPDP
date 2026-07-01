@@ -357,16 +357,3 @@ Example:
 ```bash
 --seed 2026
 ```
-
-## Citation
-
-If this code is useful for your research, please cite our paper:
-
-```bibtex
-@article{hpdp,
-  title={Hierarchical Prototype-based Domain Priors for Multiple Instance Learning in Multimodal Histopathology Analysis},
-  author={Qiu, Xuemei and Fan, Dawei and Huang, Yebin and Chen, Yanping and Wei, Lifang},
-  journal={},
-  year={}
-}
-```
