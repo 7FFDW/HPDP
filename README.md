@@ -1,5 +1,5 @@
 # HPDP
-![Uploading fig2.jpg…]()
+
 
 
 This repository provides a PyTorch implementation of **HPDP** for whole-slide image classification. The current version focuses on the **classification task only**. After training, the script automatically saves the best checkpoint on the validation set and evaluates it on the test set.
